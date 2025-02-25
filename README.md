@@ -6,8 +6,7 @@ Model-free reinforcement learning has been applied to many challenging problems,
 
 This project trained a DQN as the baseline model for optimizing the trajectory. Followed by implementing the Double DQN and Dueling DQN on top of the baseline model. The simulation results showed no significant differences between these models in terms of their final score and converging time, but the Dueling DON has the most stable performance among other models.
 
-
-![](assets/images/lunar_lander.gif)
+<center> <img src = "assets/images/lunar_lander.gif" width = 100%>
 
 
 ## Reference
