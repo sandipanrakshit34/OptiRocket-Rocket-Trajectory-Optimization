@@ -1,1 +1,1 @@
-# OptiRocket-Rocket-Trajectory-Optimization
+# OptiRocket: Rocket Trajectory Optimization
