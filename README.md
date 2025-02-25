@@ -7,12 +7,12 @@ Model-free reinforcement learning has been applied to many challenging problems,
 This project trained a DQN as the baseline model for optimizing the trajectory. Followed by implementing the Double DQN and Dueling DQN on top of the baseline model. The simulation results showed no significant differences between these models in terms of their final score and converging time, but the Dueling DON has the most stable performance among other models.
 
 
-![](https://github.com/marswon0/rl_test/blob/main/assets/images/lunar_lander.gif)
+![](assets/images/lunar_lander.gif)
 
 
 ## Reference
 
-For model training and hyperparameter tuning processes, please check out the [report paper written for this project](https://github.com/marswon0/rocket_trajectory_optimization/blob/main/assets/paper/Solving%20the%20Lunar%20Lander%20with%20Deep%20Reinforcement%20Learning.pdf).
+For model training and hyperparameter tuning processes, please check out the [report paper written for this project](assets/paper/Solving%20the%20Lunar%20Lander%20with%20Deep%20Reinforcement%20Learning.pdf).
 
 
 ## DQN
