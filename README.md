@@ -75,6 +75,12 @@ A generic structure of Dueling DQN is shown above. In this project, the Dueling 
 
 The Dueling DQN model converged in ~350 games of training, and reached an average score of 270.
 
+## Author
+
+- [@sandipanrakshit34](https://github.com/sandipanrakshit34)
+
+##
+
 ## Conclusion
 
 This project proposes to use the DQN, Double DQN, and Dueling DQN model to solve the LunarLander-v2 environment. All three models converged into a final policy. Both the DQN and Dueling DQN scored near 280, and the Double DQN model scored around 260. Once the models converged to an optimal policy, the Dueling DQN model had a much more consistent performance compared to the other models.
