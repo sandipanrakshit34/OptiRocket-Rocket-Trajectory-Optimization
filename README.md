@@ -1,6 +1,6 @@
 # OptiRocket: Rocket Trajectory Optimization with Deep Reinforcement Learning
 
-## Introduction
+## Introduction  
 
 Model-free reinforcement learning has been applied to many challenging problems, especially when the environment is complex and hard to be modeled. Adapting deep learning techniques to the field of reinforcement learning introduces more alternatives while designing distinct policies and value functions. This project uses the DQN, Double DQN, and Dueling DQN models to solve the classic Rocket Trajectory Optimization problem. The environment is simulated by the LunarLander-v2 developed by [OpenAI Gym](https://www.gymlibrary.dev/environments/box2d/lunar_lander/).
 
