@@ -1,4 +1,4 @@
-# OptiRocket: Rocket Trajectory Optimization with Deep Reinforcement Learning
+# OptiRocket: Rocket Trajectory Optimization with Deep Reinforcement Learning  
 
 ## Introduction
 
